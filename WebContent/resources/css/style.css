@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+#cabecalho {
+	background-color: grey;
+	padding-left: 10px;
+}
+
+.par  {
+	background-color: #F0F9FF;
+}
+
+.impar {
+	background:none repeat scroll 0 0 #DDDDDD;
+}
+
+.dados {
+	width: 100%;	
+}
+
+.test{
+	color: green;
+}
+
+#h2ListagemProdutos{
+	border-bottom: 1px black solid;
+}
+
+#rodape{
+	background-color: grey;
+	text-align: center;
+	padding: 10px;
+}
